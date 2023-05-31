@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">AIDL Client</string>
+  <string name="add_num">Send Data</string>
+  <string name="no_1">Number  1</string>
+</resources>
